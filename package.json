@@ -1,6 +1,7 @@
 {
-  "name": "ws",
+  "name": "esm-ws",
   "version": "8.18.3",
+  "type":"module",
   "description": "Simple to use, blazing fast and thoroughly tested websocket client and server for Node.js",
   "keywords": [
     "HyBi",
