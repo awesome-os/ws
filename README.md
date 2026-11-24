@@ -546,3 +546,13 @@ We're using the GitHub [releases][changelog] for changelog entries.
 [socks-proxy-agent]: https://github.com/TooTallNate/node-socks-proxy-agent
 [utf-8-validate]: https://github.com/websockets/utf-8-validate
 [ws-server-options]: ./doc/ws.md#new-websocketserveroptions-callback
+
+## Quick Install & Run (Windows / Linux / macOS)
+
+```sh
+# Install globally via awesome-os/pnpm (all platforms)
+pnpm add -g github:awesome-os/ws
+
+# Run directly (all platforms)
+ws --help
+```
