@@ -1,0 +1,52 @@
+{
+  "schema": "holo-compiler-lockfile-v1",
+  "abiMagic": "0x33564742",
+  "casLayout": "v11",
+  "repo": "awesome-os/ws",
+  "targets": [
+    "win64",
+    "linux-x64",
+    "linux-arm64",
+    "macos-arm64",
+    "wasm32-wasi"
+  ],
+  "generatedAt": "2026-11-24T23:53:02.473Z",
+  "dependencies": [
+    {
+      "id": "awesome-os/ws/SHA256SUMS.txt",
+      "kind": "object",
+      "version": "v0.1.0",
+      "target": "any",
+      "sha512": "aa26f6cd0b34142136dbe7b58808a9a7bc0d98cedd95b420d0384d09b30fb83ebbe42f11871235c953393d8302205ec105fadea15cd98f33e882c9c56c9bc718",
+      "size": 84,
+      "executable": false,
+      "blob": "v11/files/aa/aa26f6cd0b34142136dbe7b58808a9a7bc0d98cedd95b420d0384d09b30fb83ebbe42f11871235c953393d8302205ec105fadea15cd98f33e882c9c56c9bc718",
+      "url": "https://github.com/awesome-os/ws/releases/download/v0.1.0/SHA256SUMS.txt",
+      "dependencies": []
+    },
+    {
+      "id": "awesome-os/ws/SHA512SUMS.txt",
+      "kind": "object",
+      "version": "v0.1.0",
+      "target": "any",
+      "sha512": "1bf4de8fb93446c70e91733f393d4080e1c0129bdcf7c74cee88716f4dd22cbd546b119afaca533dac617eee6ca345e54fcec3cdab97dfc0ee688d7056499ed2",
+      "size": 148,
+      "executable": false,
+      "blob": "v11/files/1b/1bf4de8fb93446c70e91733f393d4080e1c0129bdcf7c74cee88716f4dd22cbd546b119afaca533dac617eee6ca345e54fcec3cdab97dfc0ee688d7056499ed2",
+      "url": "https://github.com/awesome-os/ws/releases/download/v0.1.0/SHA512SUMS.txt",
+      "dependencies": []
+    },
+    {
+      "id": "awesome-os/ws/ws-v0.1.0.tar.zst",
+      "kind": "object",
+      "version": "v0.1.0",
+      "target": "any",
+      "sha512": "962113a7871fda21e8ecf844f071bb037aa2ce8b14904d2df032a03474851c2a9391573cc0ab7bb876650f8bb6428d00b2042b62654d74c438eb28f964447565",
+      "size": 89388,
+      "executable": false,
+      "blob": "v11/files/96/962113a7871fda21e8ecf844f071bb037aa2ce8b14904d2df032a03474851c2a9391573cc0ab7bb876650f8bb6428d00b2042b62654d74c438eb28f964447565",
+      "url": "https://github.com/awesome-os/ws/releases/download/v0.1.0/ws-v0.1.0.tar.zst",
+      "dependencies": []
+    }
+  ]
+}
