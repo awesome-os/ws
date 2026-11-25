@@ -550,9 +550,9 @@ We're using the GitHub [releases][changelog] for changelog entries.
 ## Quick Install & Run (Windows / Linux / macOS)
 
 ```sh
-# Install globally via awesome-os/pnpm (all platforms)
-pnpm add -g github:awesome-os/ws
+# Install / hydrate from v11 CAS via holo-pm
+holo-pm install repository://github.com/awesome-os/ws@main
 
-# Run directly (all platforms)
-ws --help
+# Or project & run directly via holo-project (0-byte hardlink)
+holo-project "project://node/ws?from=repository://github.com/awesome-os/ws@main"
 ```
