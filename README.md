@@ -1,3 +1,6 @@
+> [!WARNING]
+> Archived / Superseded by the unified Holo v11 core stack at https://github.com/awesome-os/awesome-os and https://github.com/awesome-os/chromium-baseline.
+
 # ws: a Node.js WebSocket library
 
 [![Version npm](https://img.shields.io/npm/v/ws.svg?logo=npm)](https://www.npmjs.com/package/ws)
